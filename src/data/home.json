@@ -1,0 +1,168 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "./images/clients/client-1.png"
+            },
+            {
+                "id": 2,
+                "image": "./images/clients/client-2.png"
+            },
+            {
+                "id": 3,
+                "image": "./images/clients/client-3.png"
+            },
+            {
+                "id": 4,
+                "image": "./images/clients/client-4.png"
+            },
+            {
+                "id": 5,
+                "image": "./images/clients/client-5.png"
+            },
+            {
+                "id": 6,
+                "image": "./images/clients/client-6.png"
+            },
+            {
+                "id": 7,
+                "image": "./images/clients/client-7.png"
+            },
+            {
+                "id": 7,
+                "image": "./images/clients/client-8.png"
+            }
+        ]
+    },
+    {
+        "iconBox": [
+            {
+                "id": "1",
+                "icon": "bi bi-collection",
+                "title": "Research",
+                "excerpt": "I conduct user research to identify the problem I want to solve."
+            },
+            {
+                "id": "2",
+                "icon": "bi bi-clipboard-check",
+                "title": "Define Problem",
+                "excerpt": "I brainstorm possible solutions to the identified problem"
+            },
+            {
+                "id": "3",
+                "icon": "bi bi-pc-display",
+                "title": "Prototype",
+                "excerpt": "I create high fidelity design and prototype the screens."
+            },
+            {
+                "id": "4",
+                "icon": "bi bi-code-slash",
+                "title": "Implement",
+                "excerpt": "After designing, I then convert my pseudo code into actual code."
+            }
+        ]
+    },
+    {
+        "funfact": [
+            {
+                "id": 1,
+                "number": 8000,
+                "title": "Partner <br /> worldwide"
+            },
+            {
+                "id": 2,
+                "number": 1250,
+                "title": "employees and <br /> staffs"
+            },
+            {
+                "id": 3,
+                "number": 904,
+                "title": "project completed <br /> on 60 countries"
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "icon": "bi bi-chat-left-quote",
+                "name": "Zerene Janse van Rensburg",
+                "designation": "Director at Earth Tonez Apothecary",
+                "excerpt": "Andzie is a highly skilled individual with an eye for details. We got exactly what we wanted and more."
+            },
+            {
+                "id": 2,
+                "icon": "bi bi-chat-left-quote",
+                "name": "Andrew Novela",
+                "designation": "Founder at Novela Home Draughts",
+                "excerpt": "Fantastic work! I am just impressed by Andzie's service quality and working strategy."
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-paper-plane",
+                "title": "Personal",
+                "price": "<sup>$</sup>9.99<span>/ month</span>",
+                "pricingList": [
+                    "Custome Domains",
+                    "Sleep after 30 mins of <br /> activity"
+                ]
+            },
+            {
+                "id": 2,
+                "badgeType": "true",
+                "badge": "popular",
+                "icon": "icon-plane",
+                "title": "small team",
+                "price": "<sup>$</sup>49.99<span>/ month</span>",
+                "pricingList": [
+                    "never sleeps",
+                    "multiple workers for more <br /> powerful apps"
+                ]
+            },
+            {
+                "id": 3,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-rocket",
+                "title": "enterprise",
+                "price": "<sup>$</sup>99.99<span>/ month</span>",
+                "pricingList": [
+                    "dedicated",
+                    "simple horizontal <br /> scalability"
+                ]
+            }
+        ]
+    }
+]

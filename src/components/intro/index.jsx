@@ -1,0 +1,46 @@
+import { Link } from "react-router-dom";
+import PropTypes from "prop-types";
+
+const Intro = ({ data }) => {
+    return (
+        <div
+            className="single-slider d-flex align-items-center animation-style-01"
+            style={{
+                backgroundImage: `url(${
+                    process.env.PUBLIC_URL + data.backgroundImage
+                })`,
+            }}
+        >
+            <span className="line"></span>
+            <span className="line"></span>
+            <span className="line"></span>
+
+            <div className="container">
+                <div className="slider-content">
+                    {/* <h4 className="sub-title">{"Hello, world!"}</h4> */}
+                    <h1 className="main-title">
+                        {"Andzisi"} <br />
+                        {"Mabaso"}
+                    </h1>
+
+                    <p>
+                        Creative Front End Developer, WordPress Developer <br />{" "}
+                        & UI Designer, based in Johannesburg, South Africa.
+                    </p>
+                    <Link
+                        className="slider-btn"
+                        to={process.env.PUBLIC_URL + "/my-work"}
+                    >
+                        Latest Projects
+                    </Link>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+Intro.propTypes = {
+    data: PropTypes.object,
+};
+
+export default Intro;

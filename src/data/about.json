@@ -1,0 +1,59 @@
+[
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2017",
+        "yearTwo": "2018",
+        "yearThree": "2019",
+        "present": "2020 - Present",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "HTML/CSS/JavaScript",
+                "title": "Started learning to code</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-danger",
+                "cate": "Freelance",
+                "title": "Create websites for small local clients</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-success",
+                "cate": "Junior Front End Developer - CDE Insight ",
+                "title": "Recieved training on <span>React & WordPress</span>"
+            },
+            {
+                "id": 4,
+                "className": "text-white",
+                "cate": "Built SPAs",
+                "title": "Started building SAPs UIs using <span>React</span>"
+            },
+            {
+                "id": 5,
+                "className": "text-warning",
+                "cate": "Custom Theme Development",
+                "title": "Recieved training on PHP and Theme Development"
+            },
+            {
+                "id": 6,
+                "className": "text-info",
+                "cate": "Front End Developer - Thrive",
+                "title": "Working with React, Nextjs & Redux"
+            },
+            {
+                "id": 7,
+                "className": "text-lighr",
+                "cate": "More Learning",
+                "title": "Learning Typescript and Nodejs"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello!</span> I am Andzie, <br> Creative Developer/Designer <br> in Joburg.",
+        "excerpt": ""
+    }
+]

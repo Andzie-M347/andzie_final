@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/work/work-1.jpg"
+        },
+        "title": "Earth Tonez",
+        "categories": ["WordPress", "UI Design"]
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/work/work-3.jpg"
+        },
+        "title": "Skillspanda",
+        "categories": ["WordPress"]
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/work/work-2.jpg"
+        },
+        "title": "Lazy Shopper",
+        "categories": ["Web Application", "MERN stack"]
+    },
+
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/work/work-2.jpg"
+        },
+        "title": "Dynamic React Dashboard",
+        "categories": ["Web Application"]
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "./images/work/work-2.jpg"
+        },
+        "title": "CRM System",
+        "categories": ["Web Application"]
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "./images/work/work-2.jpg"
+        },
+        "title": "CRM System",
+        "categories": ["Web Application"]
+    }
+]

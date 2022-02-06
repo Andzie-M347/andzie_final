@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/project/project-1.jpg",
+            "image": "./images/project-details/project-details.jpg"
+        },
+        "title": "Earth Tonez WordPress Website",
+        "categories": ["WordPress"],
+        "challenge": "Online store with product recommendations",
+        "date": "October 20, 2021",
+        "team": "Andzie - Developer <br /> Andzie - UI/UX Designer",
+        "service": "Online Store, UI/UX Design, Product Quiz",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Woocommerce website built using WordpPress Elementor Builder, Adobe XD for User Interface, and custom theme. </p>"
+        ],
+        "quote": " ",
+        "name": "Zerene Janse van Rensburg",
+        "designation": "Director of Earth Tonez Apothecary",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2.jpg",
+            "imageThree": "./images/project-details/dec-images-3.jpg"
+        },
+
+        "link": "https://earthtonez.co.za/"
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Project coming soon",
+        "categories": ["Web App"],
+        "challenge": "",
+        "date": "",
+        "team": "",
+        "service": "",
+        "subTitle": "",
+        "body": [""],
+        "quote": " ",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "",
+            "imageTwo": "",
+            "imageThree": ""
+        }
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Project coming soon",
+        "categories": ["Web App"],
+        "challenge": "",
+        "date": "",
+        "team": "",
+        "service": "",
+        "subTitle": "",
+        "body": [""],
+        "quote": " ",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "",
+            "imageTwo": "",
+            "imageThree": ""
+        }
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Project coming soon",
+        "categories": ["Web App"],
+        "challenge": "",
+        "date": "",
+        "team": "",
+        "service": "",
+        "subTitle": "",
+        "body": [""],
+        "quote": " ",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "",
+            "imageTwo": "",
+            "imageThree": ""
+        }
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Project coming soon",
+        "categories": ["Web App"],
+        "challenge": "",
+        "date": "",
+        "team": "",
+        "service": "",
+        "subTitle": "",
+        "body": [""],
+        "quote": " ",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "",
+            "imageTwo": "",
+            "imageThree": ""
+        }
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Project coming soon",
+        "categories": ["Web App"],
+        "challenge": "",
+        "date": "",
+        "team": "",
+        "service": "",
+        "subTitle": "",
+        "body": [""],
+        "quote": " ",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "",
+            "imageTwo": "",
+            "imageThree": ""
+        }
+    }
+]
